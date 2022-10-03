@@ -1,0 +1,16 @@
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\Final_work.exe
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\Final_work.deps.json
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\Final_work.runtimeconfig.json
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\Final_work.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\Final_work.dll
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\ref\Final_work.dll
+C:\Users\Никита\Desktop\Final\Final_work\bin\Debug\net5.0\Final_work.pdb
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.dll
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\ref\Final_work.dll
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.pdb
+C:\Users\Никита\Desktop\Final\Final_work\obj\Debug\net5.0\Final_work.genruntimeconfig.cache
