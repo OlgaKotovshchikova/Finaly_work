@@ -6,7 +6,19 @@ namespace Final_work
     {
         static void Main(string[] args)
         {
-            
+            var arr = new string[6] { "dsafsdf", "123", "4fes", "fdsafds", "", "4fd" };
+            var result = GetArr(arr);
+            Console.Write("[");
+            foreach (var item in result)
+            {
+
+                if (Array.IndexOf(result, item) == result.Length - 1)
+                    Console.Write($"\"{item}\"");
+                else
+                    Console.Write($"\"{item}\", ");
+            }
+            Console.Write("]");
+            Console.WriteLine();
         }
 
         static public string[] GetArr(string[] arr)
